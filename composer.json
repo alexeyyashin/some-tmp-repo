@@ -1,0 +1,12 @@
+{
+    "name": "alexeyyashin/some-tmp-repo",
+    "description": "\\",
+    "type": "bitrix-uf-type",
+    "authors": [
+        {
+            "name": "Alexey Yashin",
+            "email": "me@alexey-yashin.ru"
+        }
+    ],
+    "require": {}
+}
